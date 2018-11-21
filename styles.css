@@ -1,0 +1,44 @@
+h1{
+    text-align:center;
+}
+
+h2{
+    text-align:center;
+}
+
+img{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    height:350px;
+}
+
+#vg{
+    height:300px;
+    width:300px;
+    
+}
+
+p{
+    text-align:center;
+    font-style:italic;
+    font-size:25px;
+    font-weight:bold;
+}
+
+.bg{
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+.vg{
+    font-family: 'Allerta Stencil', sans-serif;
+}
+
+.bb{
+    font-family: 'Ranga', cursive;
+}
+
+.bmp{
+    font-family: 'Anton', sans-serif;
+}
+
